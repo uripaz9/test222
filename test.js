@@ -1,7 +1,3 @@
-console.log("gaga");
-
-console.log("ggy");
-
-
-bghjghghj
+console.log("uri");
+    
 
